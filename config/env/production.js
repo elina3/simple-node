@@ -8,6 +8,6 @@ module.exports = {
   app: {
     title: 'Simple-node - Production Environment'
   },
-  serverAddress:'https://localhost:80/',
+  serverAddress:'http://localhost:80/',
   port: process.env.PORT || 80
 };

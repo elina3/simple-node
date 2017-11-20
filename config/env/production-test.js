@@ -8,6 +8,6 @@ module.exports = {
   app: {
     title: 'Simple-node - Production Test Environment'
   },
-  serverAddress:'https://localhost:7010/',
+  serverAddress:'http://localhost:7010/',
   port: process.env.PORT || 7010
 };
